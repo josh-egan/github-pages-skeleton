@@ -7,7 +7,7 @@
   "author": "",
   "license": "ISC",
   "scripts": {
-    "deploy": "gh-pages --dist ./dist -n"
+    "deploy": "gh-pages --dist ./dist"
   },
   "github-pages-deploy": {
     "src": "src"
