@@ -9,9 +9,6 @@
   "scripts": {
     "deploy": "gh-pages --dist ./dist"
   },
-  "github-pages-deploy": {
-    "src": "src"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/josh-egan/github-pages-skeleton.git"
