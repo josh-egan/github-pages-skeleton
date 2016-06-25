@@ -7,7 +7,7 @@
   "author": "",
   "license": "ISC",
   "scripts": {
-    "deploy": "node deploy.js"
+    "deploy": "gh-pages --dist ./dist -n"
   },
   "github-pages-deploy": {
     "src": "src"
@@ -22,6 +22,6 @@
   "homepage": "https://github.com/josh-egan/github-pages-skeleton#readme",
   "dependencies": {},
   "devDependencies": {
-    "shelljs": "0.7.0"
+    "gh-pages": "0.11.0"
   }
 }
